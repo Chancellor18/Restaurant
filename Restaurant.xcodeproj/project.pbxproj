@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F30E32121D21C4B0049375C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6964A99D20C7259300921F08 /* Assets.xcassets */; };
 		6964A99720C7258C00921F08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6964A99620C7258C00921F08 /* AppDelegate.swift */; };
 		6964A99C20C7258C00921F08 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6964A99A20C7258C00921F08 /* Main.storyboard */; };
-		6964A99E20C7259300921F08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6964A99D20C7259300921F08 /* Assets.xcassets */; };
 		6964A9A120C7259300921F08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6964A99F20C7259300921F08 /* LaunchScreen.storyboard */; };
 		6964A9AB20C72EB700921F08 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6964A9AA20C72EB700921F08 /* MenuTableViewController.swift */; };
 		6964A9AD20C72EE000921F08 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6964A9AC20C72EE000921F08 /* CategoryTableViewController.swift */; };
@@ -154,7 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6964A9A120C7259300921F08 /* LaunchScreen.storyboard in Resources */,
-				6964A99E20C7259300921F08 /* Assets.xcassets in Resources */,
+				3F30E32121D21C4B0049375C /* Assets.xcassets in Resources */,
 				6964A99C20C7258C00921F08 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

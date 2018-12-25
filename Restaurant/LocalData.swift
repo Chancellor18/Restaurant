@@ -1,10 +1,4 @@
-//
-//  LocalData.swift
-//  Restaurant
-//
-//  Created by Denis Bystruev on 25/12/2018.
-//  Copyright © 2018 Denis Bystruev. All rights reserved.
-//
+
 
 import Foundation
 
@@ -22,19 +16,19 @@ struct LocalData {
     static let menuItems = [
         MenuItem(
             id: 1,
-            name: "Spaghetti and Meatballs",
-            description: "Seasoned meatballs on top of freshly-made spaghetti. Served with a robust tomato sauce.",
-            price: 9,
+            name: "Chicken Breast with Spinach",
+            description: "Winter dish, created by our chef according to tradition from USA.",
+            price: 15,
             category: "entrees",
-            imageURL: URL(fileURLWithPath: "SpaghettiAndMeatballs")
+            imageURL: URL(fileURLWithPath: "entrees")
         ),
         MenuItem(
             id: 2,
-            name: "Margherita Pizza",
-            description: "Tomato sauce, fresh mozzarella, basil, and extra-virgin olive oil.",
+            name: "Chiken chips Jack Daniels",
+            description: "Appetizing fried thin slices of chicken fillet, breaded with sesame, served with Jack Daniels sauce.",
             price: 10,
-            category: "entrees",
-            imageURL: URL(fileURLWithPath: "MargheritaPizza")
+            category: "appetizers",
+            imageURL: URL(fileURLWithPath: "zakuska")
         ),
         MenuItem(
             id: 3,
